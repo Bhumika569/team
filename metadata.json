@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow - Intelligent Task Management & Prioritization SaaS",
+  "description": "A modern, full-featured task management SaaS with smart prioritization, interactive calendar, productivity analytics, Supabase authentication, and dark mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
